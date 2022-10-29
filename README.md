@@ -26,6 +26,15 @@ pip install -r requirements.txt
 
 
 ![sample_1](/samples/sample_1.jpg)
+
+---
+
 ![sample_2](/samples/sample_2.jpg)
+
+---
+
 ![sample_3](/samples/sample_3.jpg)
+
+---
+
 ![sample_4](/samples/sample_4.jpg)
